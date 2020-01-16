@@ -1,4 +1,0 @@
-总用量 8
--rw-r--r-- 1 tarena tarena    0 12月 24 17:44 1.txt
-drwxr-xr-x 2 tarena tarena 4096 12月 24 17:24 a
--rwxrwxrwx 1 tarena tarena   45 12月 24 15:53 e01.py
